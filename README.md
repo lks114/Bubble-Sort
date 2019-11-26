@@ -1,7 +1,7 @@
 # Bubble-Sort
 History
 
-The idea was born from a program on algorithms I was watching on TV.  I then showed it to school age children duing career day about what software developers do.  
+The idea was born from a program on algorithms I was watching on TV.  I then showed it to school age children during career day about what software developers do.  
 
 General notes
 
